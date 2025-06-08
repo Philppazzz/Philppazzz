@@ -12,14 +12,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Philppazzz&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Philppazzz&theme=merko&hide_border=false)<br/>
 
-
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Philppazzz&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Philppazzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
