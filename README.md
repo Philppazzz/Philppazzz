@@ -1,5 +1,5 @@
 # 💫 About Me:
-• 🔭 I’m currently studying at FEU Institute of Technology  <br>• 🤝 I’m looking for a collaborator or fellow learner to build AI/ML projects  <br>• 🌱 I’m currently learning:  <br>  ◦ 📙 AI/Machine Learning  <br>  ◦ 👾 Web Development  <br>• 🧠 I enjoy exploring how intelligence can be built with code  <br>• ⚡ Fun fact: I’m on my journey to become an AI Engineer — one line of code at a time  <br>
+• 🔭 I’m currently studying at FEU Institute of Technology  <br>• 🤝 I’m looking for a collaborator or fellow learner to build AI/ML projects  <br>• 🌱 I’m currently learning:  <br>  ◦ 📙 AI/Machine Learning  <br>  ◦ 👾 Web Development  <br>• ⚡ Fun fact: I’m on my journey to become an AI Engineer — one line of code at a time  <br>
 
 
 ## 🌐 Socials:
